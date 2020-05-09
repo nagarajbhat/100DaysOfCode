@@ -42,7 +42,7 @@ What is covered ? -
 - create dataframe
 - Combine data (merge,concat)
 
-
+![Pandas basic methods](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Pandas/pandas_basic_methods.png)
 
 
 
