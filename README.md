@@ -1,6 +1,6 @@
 I have decided to take part in the #100daysofcode challenge.
 
-It seems like an awesome community to be part of.
+This is to record my journey and to learn and create awesome stuff.
 
 So let us take a look at what it involves - 
 
