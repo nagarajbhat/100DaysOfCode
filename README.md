@@ -12,7 +12,7 @@ So let us take a look at what it involves -
 
 - Most of my code will be related to python, Machine learning, and Deep Learning.
 
-- I will be uploading my code on Github and keep a log of it. 
+- **I will be uploading my code on Github and keep a log of it in this repository**. 
 
 - If the project is interesting/useful I will write a blog post on my website.
 
