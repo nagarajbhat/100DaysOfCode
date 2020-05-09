@@ -44,7 +44,10 @@ What is covered ? -
 
 ![Pandas basic methods](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Pandas/pandas_basic_methods.png)
 
+my links -
+- [code](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Pandas/pandas_intro_guide_olympics_data.ipynb)
+- [blog post](https://www.nagarajbhat.com/post/picture-pandas-little-guide/)
 
-
-
-
+other reources -
+- [Pandas kaggle course](https://www.kaggle.com/learn/pandas)
+- [pandas official user guide](https://pandas.pydata.org/docs/user_guide/index.html)
