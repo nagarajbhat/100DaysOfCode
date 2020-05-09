@@ -8,13 +8,13 @@ So let us take a look at what it involves -
 
 - I will be posting every day under the tag #100daysofcode here and on my twitter.
 
-- Its ok to miss a day (add additional days in the end), try not to miss two in a row.
+- It is ok to miss a day (add additional days in the end), try not to miss two in a row.
 
-- Most of my code will be related to python,Machine learning, and Deep learning.
+- Most of my code will be related to python, Machine learning, and Deep Learning.
 
-- I will be uploading my code on github and keep a log of it. 
+- I will be uploading my code on Github and keep a log of it. 
 
-- If the project is intersting/useful I will write a blog post on my website.
+- If the project is interesting/useful I will write a blog post on my website.
 
 
 Also, I would encourage other people to take a look at this challenge too and participate in it.
