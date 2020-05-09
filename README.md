@@ -23,7 +23,7 @@ Check out the [original blog post](https://www.freecodecamp.org/news/join-the-10
 ## links - 
 
 - [linkedin](https://www.linkedin.com/in/nagarajbhat12/)
-- [twitter](https://twitter.com/nagarajbhat92)]
+- [twitter](https://twitter.com/nagarajbhat92)
 - [my website](https://www.nagarajbhat.com)
 
 #100daysofcode #coding #machine learning #100daysofmlcode
