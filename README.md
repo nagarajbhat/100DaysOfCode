@@ -20,7 +20,7 @@ So let us take a look at what it involves -
 Also, I would encourage other people to take a look at this challenge too and participate in it.
 Check out the [original blog post](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/) for more information on this challenge.
 
-## links - 
+## My links - 
 
 - [linkedin](https://www.linkedin.com/in/nagarajbhat12/)
 - [twitter](https://twitter.com/nagarajbhat92)
