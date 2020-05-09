@@ -29,6 +29,22 @@ Check out the [original blog post](https://www.freecodecamp.org/news/join-the-10
 #100daysofcode #coding #machine learning #100daysofmlcode
 
 
+## Log -
+
+### Day 1 - Pandas an small intro guide (olympics data)
+
+Created a small intro guide for python's pandas framework. 
+
+What is covered ? - 
+- Read and select data
+- Summary statistics
+- Group and sort data
+- create dataframe
+- Combine data (merge,concat)
+
+
+
+
 
 
 
