@@ -58,7 +58,7 @@ other reources -
 - Explored different types of Distance metric - Euclidean,manhattan, hamming,minkowski.
 - Distance metrics are used in algorithms such as KKN, K-means.
 - Coded my own Distance metrics from scratch (improvements to be made) - [Code link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_from_scratch/distance_metrics_from_scratch.ipynb)
-- sklearn ( sklearn.neighbors.DistanceMetric) and scipy(scipy.spacial.distance) both provide library to calculate distance metrics.
+- sklearn and scipy both provide tools to calculate distance metrics (refer code).
 
 Usually, Euclidean is used as the distance metric, although the paper below [2] explains why Manhattan is preferable over euclidean for high dimentional data.
 Obviously there's a lot more to cover regarding distance metrics and preferences.
