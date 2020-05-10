@@ -60,8 +60,8 @@ other reources -
 - Coded my own Distance metrics from scratch (improvements to be made) - [Code link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_from_scratch/distance_metrics_from_scratch.ipynb)
 - sklearn ( sklearn.neighbors.DistanceMetric) and scipy(scipy.spacial.distance) both provide library to calculate distance metrics.
 
-The paper below[2] is explains why Manhattan is preferable over euclidean for high dimentional data.
-Obviously there's a lot more to cover regarding distance metrics and when to use which ones.
+Usually, Euclidean is used as the distance metric, although the paper below [2] explains why Manhattan is preferable over euclidean for high dimentional data.
+Obviously there's a lot more to cover regarding distance metrics and preferences.
 
 ![distance metrics notes](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_from_scratch/distance_metrics_notes.jpg)
 
