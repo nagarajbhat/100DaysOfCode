@@ -71,3 +71,23 @@ Additional resources -
 in High Dimensional Space - Paper](https://bib.dbvis.de/uploadedFiles/155.pdf)
 - [3] [Different Types of Distance Metrics used in Machine Learning - blog](https://medium.com/@kunal_gohrani/different-types-of-distance-metrics-used-in-machine-learning-e9928c5e26c7)
 
+## Day 3,4 - KNN for classification (of glass types)
+
+- Explained KNN algorithm, used it to classify glass types.
+- covered scatterplot,pairplot, correlation matrix (heatmap)
+- Applied feature scaling
+- Applied KNN to classify
+- Optimization -
+  - Distance matrix
+  - finding the best K value.
+
+Check out the [code here](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/KNN_for_classification_of_glass_types.ipynb)
+
+![KNN board](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/KNN_board.PNG)
+
+Other useful resources - 
+- [K Nearest Neighbour Easily Explained with Implementation by Krish Naik - video](https://www.youtube.com/watch?v=wTF6vzS9fy4)
+- [KNN by sentdex -video](https://www.youtube.com/watch?v=1i0zu9jHN6U)
+- [KNN sklearn - docs ](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+- [Complete guide to K nearest neighbours - python and R - blog](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
+- [Why scaling is required in KNN and K-Means - blog](https://medium.com/analytics-vidhya/why-is-scaling-required-in-knn-and-k-means-8129e4d88ed7)
