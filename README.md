@@ -81,7 +81,7 @@ in High Dimensional Space - Paper](https://bib.dbvis.de/uploadedFiles/155.pdf)
   - Distance matrix
   - finding the best K value.
 
-Check out the [code here](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/KNN_for_classification_of_glass_types.ipynb)
+Check out the [code here](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/KNN_for_classification_of_glass_types.ipynb) , and my blog post on this topic [here](https://www.nagarajbhat.com/post/knn-for-classification/)
 
 ![KNN board](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/KNN_board.PNG)
 
