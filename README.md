@@ -51,3 +51,23 @@ my links -
 other reources -
 - [Pandas kaggle course](https://www.kaggle.com/learn/pandas)
 - [pandas official user guide](https://pandas.pydata.org/docs/user_guide/index.html)
+
+
+### Day 2 - Distance metrics 
+
+- Explored different types of Distance metric - Euclidean,manhattan, hamming,minkowski.
+- Distance metrics are used in algorithms such as KKN, K-means.
+- Coded my own Distance metrics from scratch (improvements to be made) - [Code link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_from_scratch/distance_metrics_from_scratch.ipynb)
+- sklearn and scipy both provide tools to calculate distance metrics (refer code).
+
+Usually, Euclidean is used as the distance metric, although the paper below [2] explains why Manhattan is preferable over euclidean for high dimentional data.
+Obviously there's a lot more to cover regarding distance metrics and preferences.
+
+![distance metrics notes](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_from_scratch/distance_metrics_notes.jpg)
+
+Additional resources - 
+- [1] [Sklearn Distance metrics - Docs](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.DistanceMetric.html)
+- [2] [On the Surprising Behavior of Distance Metrics
+in High Dimensional Space - Paper](https://bib.dbvis.de/uploadedFiles/155.pdf)
+- [3] [Different Types of Distance Metrics used in Machine Learning - blog](https://medium.com/@kunal_gohrani/different-types-of-distance-metrics-used-in-machine-learning-e9928c5e26c7)
+
