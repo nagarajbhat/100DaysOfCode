@@ -91,3 +91,25 @@ Other useful resources -
 - [KNN sklearn - docs ](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [Complete guide to K nearest neighbours - python and R - blog](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 - [Why scaling is required in KNN and K-Means - blog](https://medium.com/analytics-vidhya/why-is-scaling-required-in-knn-and-k-means-8129e4d88ed7)
+
+## Day 5,6,7 - Completed Intermediate machine learning course on Kaggle, also my improved housing prices competition model to rank in the top 8%.
+
+What I like about these series of course from Kaggle is the hands-on-practical learning approach. 
+This one is well compiled by Alexis Cook.
+
+It covers - handling missing values, categorical variables, pipelines, XGboost, cross-validation, and data leakage.
+
+Key Takeaways - 
+
+1. Applying Machine learning pipelines resolved much of my headache in dealing with messy workflows. This is also good for quick experimentation, and reproducibility.
+2. XGBoost is a state of the art ML model dominating most of the Kaggle competitions nowadays (effective for categorical data). Techniques for hyperparameter tuning was useful.
+3. Data leakage can be very subtle and gets easily ignored. Think of it like this - If you do not have access to a particular feature/predictor before making a prediction for new data, then that feature shouldn't be used in the model in the first place.
+
+I have compiled the code structures for future reference's sake. (don't mind taking it down if requested).
+
+[code link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Courses/Intermediate_ML_kaggle.ipynb)
+
+other links - 
+- [Housing price competition](https://www.kaggle.com/c/home-data-for-ml-course)
+- [Intermediate machine learning course - Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+
