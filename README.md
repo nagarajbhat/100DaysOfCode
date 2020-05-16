@@ -94,6 +94,8 @@ Other useful resources -
 
 ## Day 5,6,7 - Completed Intermediate machine learning course on Kaggle, also my improved housing prices competition model to rank in the top 8%.
 
+![intermediate ml course kaggle](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Courses/certificates/Nagaraj%20bhat%20-%20Intermediate%20Machine%20Learning.png)
+
 What I like about these series of course from Kaggle is the hands-on-practical learning approach. 
 This one is well compiled by Alexis Cook.
 
@@ -112,4 +114,5 @@ I have compiled the code structures for future reference's sake. (don't mind tak
 other links - 
 - [Housing price competition](https://www.kaggle.com/c/home-data-for-ml-course)
 - [Intermediate machine learning course - Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+
 
