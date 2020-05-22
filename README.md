@@ -115,4 +115,18 @@ other links -
 - [Housing price competition](https://www.kaggle.com/c/home-data-for-ml-course)
 - [Intermediate machine learning course - Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
 
+## Day 8,9,10,11: Wrote a blog - "Predicting Titanic movie's character's survival chance using Machine learning". I Improved my titanic dataset model to achieve an accuracy of 80.382%  - currently ranking in the top 9% in Kaggle.
 
+Although this is one of the most common datasets, I was curious to compare the movie character's survival with the actual prediction. I also covered how to improve model accuracy. 
+
+check out the complete blog [here](https://www.nagarajbhat.com/post/predicting-titanic-survival/)
+
+Disclaimer - This blog is not about whether Jack could fit on the door with Rose!
+
+![Jack-rose-meme](https://www.nagarajbhat.com/post/predicting-titanic-survival/featured.jpg)
+
+Apart from this, 
+- I worked on feature engineering and selection techniques
+- Learned about categorical encodings such as count encoding, target encoding, catboosting.
+- Studied a bit about docker.
+- Studied about lightGBM.
