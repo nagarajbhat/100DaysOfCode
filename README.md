@@ -140,7 +140,7 @@ Features -
 - displays a new quote, author every time you refresh the page or press the button.
 - Can look up the author on google with a click
 
-![refresh quotes image](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/refreshquotes.jpg)
+![refresh quotes image](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/refreshquotes_desktop.PNG)
 
 Learnings - 
 - You can use mix-blend-mod , filter dropshadow, invert to differentiate text from background in CSS.
@@ -149,6 +149,6 @@ Learnings -
 
 I may get back to this project for new features (possibly some NLP), and improving content.
 
-Also, I thought it would be a good idea to refresh some of the basic programming concepts, So I started with OOPs(Object Oriented Programming) for python. Coded class methods and variables, inheritance,etc.[link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_DataStructures/OOPS_concepts.py)
+Also, I thought it would be a good idea to refresh some of the basic programming concepts, So I started with OOPs(Object Oriented Programming) for python. Coded class methods and variables, inheritance,etc. - [link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_DataStructures/OOPS_concepts.py)
 
 
