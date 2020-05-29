@@ -130,3 +130,22 @@ Apart from this,
 - Learned about categorical encodings such as count encoding, target encoding, catboosting.
 - Studied a bit about docker.
 - Studied about lightGBM.
+
+## Day 12-17 : Created a simple python flask app called Refresh Quotes, this displays a new quote every time you refresh!
+
+It is currently deployed on Heroku, do check it out here - > [Refresh Quotes](https://refreshquotes.herokuapp.com/)  
+
+Features - 
+- displays a new quote, author every time you refresh the page or press the button.
+- Can look up the author on google with a click
+
+Learnings - 
+- You can use mix-blend-mod , filter dropshadow, invert to differentiate text from background in CSS.
+- Jinja template designer for internal logic in an HTML file. 
+- Heroku deployment - using Procfile, GitHub integration, and Heroku CLI.
+
+I may get back to this project for new features (possibly some NLP), and improving content.
+
+Also, I thought it would be a good idea to refresh some of the basic programming concepts, So I started with OOPs(Object Oriented Programming) for python. Coded class methods and variables, inheritance,etc.
+
+
