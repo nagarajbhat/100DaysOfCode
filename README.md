@@ -151,4 +151,6 @@ I may get back to this project for new features (possibly some NLP), and improvi
 
 Also, I thought it would be a good idea to refresh some of the basic programming concepts, So I started with OOPs(Object Oriented Programming) for python. Coded class methods and variables, inheritance,etc. - [link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/Algorithms_DataStructures/OOPS_concepts.py)
 
+## Day 18,19: Used pyspark for a multi-class Classification problem.Used grid search to find the best values for the hyperparameters .
 
+Use "isLargerBetter" method to determine if the metrics returned by evaluater needs to be maximised or minimised
