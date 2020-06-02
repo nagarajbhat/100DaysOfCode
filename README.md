@@ -155,8 +155,8 @@ Also, I thought it would be a good idea to refresh some of the basic programming
 Used grid search to find the best values for the hyperparameters .
 Use "isLargerBetter" method to determine if the metrics returned by evaluater needs to be maximised or minimised
 
-## Day 20:
-I Created a Subscription form for my website content using Mailchimp. If you are interested in Machine learning, python, statistics, 100DaysOfCode, and want to receive my posts on it along with some good learning resources that I refer to, do subscribe!
+## Day 20: I Created a Subscription form for my website content using Mailchimp.
+If you are interested in Machine learning, python, statistics, 100DaysOfCode, and want to receive my posts on it along with some good learning resources that I refer to, do subscribe!
 
 ![subscribe](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/subscribe.png)
 
