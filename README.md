@@ -161,3 +161,22 @@ If you are interested in Machine learning, python, statistics, 100DaysOfCode, an
 ![subscribe](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/subscribe.png)
 
 I know the popup can be irritating, so it coded it such that it will only appear when you are top or bottom part of my website, and disappears while you are reading the blog.
+
+
+## Day 21 : 
+Day 21 : I am recontinuing this challenge after a gap. Today I explored clustering for dimensionality reduction.
+
+We know that clustering is an unsupervised learning technique. 
+Here I explored how Kmeans clustering can be used as a preprocessing step for dimensionality reduction before applying a supervised learning technique to classify digits in MNIST handwritten digit dataset.
+
+[code link](https://github.com/nagarajbhat/100DaysOfCode/blob/master/classification/MNIST_KmeansFordimnesionalityReduction.ipynb)
+
+![KMeans mnist image](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/kmeans_mnist.PNG)
+
+Applying logistic regression to classify the digits, we get an accuracy score of 94.8%. Using Kmeans as a preprocessing step in the pipeline to cluster instances together increased the accuracy to 97.5%. 
+
+Note that even though we classify 10 digits, n_clusters = 10 is not likely to give the best result as there are several ways to write each digit. The best value for the number of clusters can be found using GridSearchCV. Here it was found to be 78.
+
+Further, we can also use clustering for semi-supervised learning where some of the instances are unlabelled. Here, unlabelled instances can be assigned a label based on the cluster they belong to.
+
+ 
