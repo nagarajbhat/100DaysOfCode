@@ -163,8 +163,7 @@ If you are interested in Machine learning, python, statistics, 100DaysOfCode, an
 I know the popup can be irritating, so it coded it such that it will only appear when you are top or bottom part of my website, and disappears while you are reading the blog.
 
 
-## Day 21 : 
-Day 21 : I am recontinuing this challenge after a gap. Today I explored clustering for dimensionality reduction.
+## Day 21 : I am recontinuing this challenge after a gap. Today I explored clustering for dimensionality reduction.
 
 We know that clustering is an unsupervised learning technique. 
 Here I explored how Kmeans clustering can be used as a preprocessing step for dimensionality reduction before applying a supervised learning technique to classify digits in MNIST handwritten digit dataset.
@@ -179,4 +178,5 @@ Note that even though we classify 10 digits, n_clusters = 10 is not likely to gi
 
 Further, we can also use clustering for semi-supervised learning where some of the instances are unlabelled. Here, unlabelled instances can be assigned a label based on the cluster they belong to.
 
+reference - Hands on ML with scikit,keras and tensoflow (Book)
  
