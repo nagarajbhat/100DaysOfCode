@@ -196,3 +196,8 @@ The drawback is that the decision boundary is not always simple.
 PCA - the point of Principal component analysis(PCA) is to project high dimensional data into a lower subspace in such a way that you preserve the variance. One method to do this is to pick the axis which minimizes the mean squared distance between the original dataset and its projected version.
 Applying PCA to MNIST can result in compression of the image.
 ![PCA](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/PCA.PNG)
+
+links - 
+- [my code](https://github.com/nagarajbhat/100DaysOfCode/blob/master/dimensionality_reduction/dimensionality_reduction.ipynb)
+- Hands on Machine learning with scikit-learn, keras and tensorflow [2nd edition] (Book)
+- [scikit-learn unsupervised dimensionality reduction](https://scikit-learn.org/stable/modules/unsupervised_reduction.html)
