@@ -201,3 +201,23 @@ links -
 - [my code](https://github.com/nagarajbhat/100DaysOfCode/blob/master/dimensionality_reduction/dimensionality_reduction.ipynb)
 - Hands on Machine learning with scikit-learn, keras and tensorflow [2nd edition] (Book)
 - [scikit-learn unsupervised dimensionality reduction](https://scikit-learn.org/stable/modules/unsupervised_reduction.html)
+
+## Day 23,24: Here is a reason why considering just the accuracy metric for your ML model is not enough.
+I am currently building a Dashboard for pokemon. In one of the tab, I predict the type of pokemon using features such as Attack, Defense, Speed, etc.
+
+According to the dataset, there are 18 types of pokemon (Water, Dragon,etc.). So I ran an ML model to classify between any two types.
+
+Scenario 1 - Bug vs Grass gives an accuracy of 86%
+Scenario 2 - Water vs Ghost gives an accuracy of 90%. Does this mean that scenario 2 performs better?
+
+The problem is that the dataset is imbalanced. In scenario 1, each class has an almost equal share. But in scenario 2, type Water takes more than 77% of the share, which means that the model will give high accuracy if it manages to classify Water-type properly (even if it classifies Ghost-type poorly).
+![pokemon type](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/pokemon_type.PNG)
+
+So consider other metrics such as precision, recall, F1-score to get a better perspective.
+Precision - determines how much of what is classified as type "A" is actually "A".
+Recall - determines How much is classified as type "A" out of all that could be classified as "A".
+
+While the model does classify Water-type well, Its F1-score for Ghost is low. Whereas Scenario 1 gives reasonable precision, recall values for both the types.
+![scenario 1](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/scenario1.PNG)
+![scenario 2](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/scenario2.PNG)
+
