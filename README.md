@@ -211,7 +211,7 @@ Scenario 1 - Bug vs Grass gives an accuracy of 86%
 Scenario 2 - Water vs Ghost gives an accuracy of 90%. Does this mean that scenario 2 performs better?
 
 The problem is that the dataset is imbalanced. In scenario 1, each class has an almost equal share. But in scenario 2, type Water takes more than 77% of the share, which means that the model will give high accuracy if it manages to classify Water-type properly (even if it classifies Ghost-type poorly).
-![pokemon type](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/pokemon_type.PNG)
+![pokemon type](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/pokemon_type.PNG)
 
 So consider other metrics such as precision, recall, F1-score to get a better perspective.
 Precision - determines how much of what is classified as type "A" is actually "A".
