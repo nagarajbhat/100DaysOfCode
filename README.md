@@ -218,6 +218,6 @@ Precision - determines how much of what is classified as type "A" is actually "A
 Recall - determines How much is classified as type "A" out of all that could be classified as "A".
 
 While the model does classify Water-type well, Its F1-score for Ghost is low. Whereas Scenario 1 gives reasonable precision, recall values for both the types.
-![scenario 1](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/scenario1.PNG)
-![scenario 2](https://github.com/nagarajbhat/100DaysOfCode/tree/master/images/scenario2.PNG)
+![scenario 1](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/scenario1.PNG)
+![scenario 2](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/scenario2.PNG)
 
