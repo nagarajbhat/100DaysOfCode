@@ -180,3 +180,24 @@ Further, we can also use clustering for semi-supervised learning where some of t
 
 reference - Hands on ML with scikit,keras and tensoflow (Book)
  
+ ## Day 22: Dealing with the curse of dimensionality
+Data behaves differently in high dimensional space when compared to lower dimensions.
+For example, As the number of dimensions increases the distance between any 2 random data points also increases, in high dimensional data, the dataset is sparse.
+This means that new instances are very far away from the training data, making the predictions unreliable.
+
+#DimensionalityReduction : 
+Projection- In the real world, data points in high dimensions actually lie or are close to each other in a lower dimension subspace, thus they can be projected into a lower dimension. However, this may not be the best approach for data with twists (eg - swiss roll dataset)
+![code_projection](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/code_projection.PNG)
+
+Manifold learning - swiss roll is an example of a 2D manifold. Here the higher dimensional data points can be twisted into a lower-dimensional plane.
+The drawback is that the decision boundary is not always simple.
+![manifold](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/manifold_learning.PNG)
+
+PCA - the point of Principal component analysis(PCA) is to project high dimensional data into a lower subspace in such a way that you preserve the variance. One method to do this is to pick the axis which minimizes the mean squared distance between the original dataset and its projected version.
+Applying PCA to MNIST can result in compression of the image.
+![PCA](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/PCA.PNG)
+
+links - 
+- [my code](https://github.com/nagarajbhat/100DaysOfCode/blob/master/dimensionality_reduction/dimensionality_reduction.ipynb)
+- Hands on Machine learning with scikit-learn, keras and tensorflow [2nd edition] (Book)
+- [scikit-learn unsupervised dimensionality reduction](https://scikit-learn.org/stable/modules/unsupervised_reduction.html)
