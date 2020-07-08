@@ -221,3 +221,26 @@ While the model does classify Water-type well, Its F1-score for Ghost is low. Wh
 ![scenario 1](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/scenario1.PNG)
 ![scenario 2](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/scenario2.PNG)
 
+## Day 25-29 : I built my first Plotly Dash app called "Dash pokemon". 
+
+The app is deployed on Heroku and is live here - https://lnkd.in/grrF4pJ .
+It is for visual analysis and pokemon type prediction and could be useful for pokemon related gaming.
+
+Dash is a framework for building Dynamic dashboards, it's built on top of Flask and Reactjs.
+
+![demo gif](https://github.com/nagarajbhat/dash-pokemon/blob/master/screenshots/demo_gif.gif)
+The app has 4 tabs -
+Tab 1 - Bar graph visual of best pokemon using Pokemon type and strength criteria.
+Tab 2 - Box plot for each pokemon type. Also finds the best and worst types.
+Tab 3 - Scatterplot, pairplot - Correlations between different features of pokemon.
+Tab 4 - Predicting a Pokemon's type using its features. There are options to play around with features as well as the targets (pokemon's types) to be classified.
+Model accuracy varies according to the options selected.
+
+Apart from dash core components and HTML components, I have made use of DBC (Dash bootstrap components) for styling.
+
+I enjoyed using Plotly dash, and have learned a fair bit about how it works.
+Let me know if you want me to make a video/blog post on developing apps/dashboards using Dash.
+
+Here's the code link - https://lnkd.in/giRgrWS
+
+
