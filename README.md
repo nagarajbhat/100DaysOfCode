@@ -233,11 +233,11 @@ Dash is a framework for building Dynamic dashboards, it's built on top of Flask 
 ![tab 2](https://github.com/nagarajbhat/dash-pokemon/blob/master/screenshots/tab2.PNG)
 
 The app has 4 tabs -
-Tab 1 - Bar graph visual of best pokemon using Pokemon type and strength criteria.
-Tab 2 - Box plot for each pokemon type. Also finds the best and worst types.
-Tab 3 - Scatterplot, pairplot - Correlations between different features of pokemon.
-Tab 4 - Predicting a Pokemon's type using its features. There are options to play around with features as well as the targets (pokemon's types) to be classified.
-Model accuracy varies according to the options selected.
+- Tab 1 - Bar graph visual of best pokemon using Pokemon type and strength criteria.
+- Tab 2 - Box plot for each pokemon type. Also finds the best and worst types.
+- Tab 3 - Scatterplot, pairplot - Correlations between different features of pokemon.
+- Tab 4 - Predicting a Pokemon's type using its features. There are options to play around with features as well as the targets (pokemon's types) to be classified.
+  Model accuracy varies according to the options selected.
 
 Apart from dash core components and HTML components, I have made use of DBC (Dash bootstrap components) for styling.
 
