@@ -246,3 +246,20 @@ Let me know if you want me to make a video/blog post on developing apps/dashboar
 
 Here's the [code link](https://github.com/nagarajbhat/dash-pokemon)
 
+## Day 30: Used black(a lint tool) for auto-formatting the code.
+Linting checks for programmatic as well as stylistic errors in your program.
+Black is Opiniated,deterministic and consistent.
+
+![image](https://github.com/nagarajbhat/100DaysOfCode/blob/master/images/black_format.png)
+
+Why use it?
+- Improves readibility
+- uniformity across all projects
+- faster code reviews
+
+Usage?
+>pip install black //installation
+>black . --check //checks files that needs reformatting
+>black file_name.py //formats the file
+
+read more on it here - [psf/black github](https://github.com/psf/black)
