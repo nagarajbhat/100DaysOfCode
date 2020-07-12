@@ -258,8 +258,8 @@ Why use it?
 - faster code reviews
 
 Usage?
->pip install black //installation
->black . --check //checks files that needs reformatting
->black file_name.py //formats the file
+- >pip install black //installation
+- >black . --check //checks files that needs reformatting
+- >black file_name.py //formats the file
 
 read more on it here - [psf/black github](https://github.com/psf/black)
